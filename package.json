@@ -1,7 +1,7 @@
 {
   "name": "@ocopjs/file-adapters",
   "description": "OcopJS - Bộ chuyển đổi để xử lý việc lưu trữ loại Tệp. 🇻🇳",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "ocopjs",
   "scripts": {
     "format": "prettier --write \"**/*.{ts,tsx,md,js}\"",
